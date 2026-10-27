@@ -146,3 +146,6 @@ The project uncovers valuable insights into customer purchasing behavior, sales 
 SQL remains one of the most essential skills for **Data Analysts, Business Intelligence Analysts, Data Scientists, Analytics Engineers, and Database Developers**. This project demonstrates the ability to analyze real-world business data, write efficient SQL queries, and convert raw transactional information into actionable business insights.
 
 This repository showcases practical experience in relational database analysis, advanced SQL techniques, business intelligence, and analytical thinking, making it an excellent portfolio project for **Data Analyst, Business Analyst, Data Scientist, BI Analyst, Analytics Engineer, and SQL Developer** roles.
+<p align="center">
+  <img src="sql.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
